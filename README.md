@@ -1,3 +1,2 @@
 # bettermotherfuckingwebsite
-Voici le lien de notre site !
-https://yassineesk.github.io/bettermotherfuckingwebsite/
+Voici le [Lien](https://yassineesk.github.io/bettermotherfuckingwebsite/) de notre site !
